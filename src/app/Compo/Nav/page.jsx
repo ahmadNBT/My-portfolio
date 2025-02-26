@@ -24,7 +24,7 @@ const Navbar = () => {
           </div>
       <nav
         style={{ position: "relative" }}
-        className="w-full z-50 py-3 dark:bg-customGray"
+        className="w-full z-40 py-3 dark:bg-customGray"
       >
         <div data-aos="fade-down" data-aos-duration="600" className="max-w-[1200px] sm:px-10 px-5 mx-auto flex justify-between">
           <div className="flex justify-between">
