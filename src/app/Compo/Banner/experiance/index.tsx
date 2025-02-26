@@ -20,15 +20,15 @@ const Experience = () => {
       <div className="grid grid-cols-3 gap-3 h-full">
         <div className="h-full flex flex-col justify-between items-center rounded-[30px] text-center shadow-md border-2 dark:text-white text-black dark:border-[rgb(39,39,39)] dark:bg-linear_BG bg-white p-5 py-8">
           <h1 className="text-3xl">03</h1>
-          <p className="uppercase text-textGray text-sm">years Experience</p>
+          <p className="uppercase text-textGray sm:text-sm text-[0.6rem]">years Experience</p>
         </div>
         <div className="h-full flex flex-col justify-between items-center rounded-[30px] text-center shadow-md border-2 dark:text-white text-black dark:border-[rgb(39,39,39)] dark:bg-linear_BG bg-white p-5 py-8">
           <h1 className="text-3xl">55+</h1>
-          <p className="uppercase text-textGray text-sm">CLIENTS WORLDWIDE</p>
+          <p className="uppercase text-textGray sm:text-sm text-[0.6rem]">CLIENTS WORLDWIDE</p>
         </div>
         <div className="h-full flex flex-col justify-between items-center rounded-[30px] text-center shadow-md border-2 dark:text-white text-black dark:border-[rgb(39,39,39)] dark:bg-linear_BG bg-white p-5 py-8">
           <h1 className="text-3xl">60+</h1>
-          <p className="uppercase text-textGray text-sm">TOTAL PROJECTS</p>
+          <p className="uppercase text-textGray sm:text-sm text-[0.6rem]">TOTAL PROJECTS</p>
         </div>
       </div>
     </div>
